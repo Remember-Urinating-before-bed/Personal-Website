@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.021f2059.css",
+    "main.js": "/Personal-Website/static/js/main.fb9d1481.js",
+    "static/media/ReactJS_web_application.png": "/Personal-Website/static/media/ReactJS_web_application.efba98a626fd5bc191cb.png",
+    "static/media/Python.png": "/Personal-Website/static/media/Python.9431343c453e999f63a7.png",
+    "static/media/Vector_graphic_software.png": "/Personal-Website/static/media/Vector_graphic_software.109304c967710e241e27.png",
+    "static/media/Personal_pic.jpg": "/Personal-Website/static/media/Personal_pic.2fa1ca7de568e27b028d.jpg",
+    "static/media/C_plus_plus.png": "/Personal-Website/static/media/C_plus_plus.53bb9a47adf217ee6900.png",
+    "static/media/Company_project_scheduler.png": "/Personal-Website/static/media/Company_project_scheduler.5e829ee9b62f5559c1cd.png",
+    "static/media/MySQL.png": "/Personal-Website/static/media/MySQL.6e42b2a035b28f240021.png",
+    "static/media/Java.png": "/Personal-Website/static/media/Java.7a2aa6ad3a281e612214.png",
+    "index.html": "/Personal-Website/index.html",
+    "main.021f2059.css.map": "/Personal-Website/static/css/main.021f2059.css.map",
+    "main.fb9d1481.js.map": "/Personal-Website/static/js/main.fb9d1481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021f2059.css",
+    "static/js/main.fb9d1481.js"
+  ]
+}
