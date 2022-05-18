@@ -29,11 +29,11 @@ const Side_Project = () => {
               </span>
               <div className='pt-8 text-center'>
                 {/* demo button */}
-                <a href="">
+                <a href="https://remember-urinating-before-bed.github.io/Personal-Website/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 {/* code button */}
-                <a href="https://github.com/Remember-Urinating-before-bed/Personal-Web-Appliaction">
+                <a href="https://github.com/Remember-Urinating-before-bed/Codes-for-personal-website">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Codes</button>
                 </a>
               </div>
