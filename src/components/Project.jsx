@@ -3,16 +3,16 @@ import WebApp from '../assets/ReactJS_web_application.png'
 import Schedular from '../assets/Company_project_scheduler.png'
 import VectorGraphicSoftware from '../assets/Vector_graphic_software.png'
 
-const Side_Project = () => {
+const Project = () => {
   return (
-    <div name='side_project' className='w-full md:h-screen text-[#484b5b] bg-[#9accdf]'>
+    <div name='project' className='w-full md:h-screen text-[#484b5b] bg-[#9accdf]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pd-8 sm:pl-4'>
           <p className='text-4xl font-bold inline border-b-4 border-pink-500'>
-            Side Projects
+            Projects
           </p>
           <p className='py-4 text-xl'>
-            // Have a look on my past side porjects
+            // Have a look on my past projects
           </p>
         </div>
         {/* container */}
@@ -77,4 +77,4 @@ const Side_Project = () => {
   )
 }
 
-export default Side_Project
+export default Project

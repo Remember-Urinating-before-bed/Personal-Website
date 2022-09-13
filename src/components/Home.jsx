@@ -11,7 +11,7 @@ const Home = () => {
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
         <p className='text-xl text-pink-600'>Hi there, my name is is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#389472]'>Xavier Leung</h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#545f7e]'>I'm a Year-2 student stdying Computing</h2>
+        <h2 className='text-4xl sm:text-7xl font-bold text-[#545f7e]'>I'm a Year-3 student stdying Computing</h2>
         <br />
         <p className='text-[#54576a] text-xl py-4 max-w-[700px]'>I'm from Hong Kong & currently studying in the Hong Kong Polytechnic University. This year, I hope to discover more technolgies in different aspects.</p>
         <div className='flex justify-between'>

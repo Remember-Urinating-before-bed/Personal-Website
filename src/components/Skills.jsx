@@ -1,7 +1,7 @@
 import React from 'react'
 import Python from '../assets/Python.png'
 import Java from '../assets/Java.png'
-import C_plus_plus from '../assets/C_plus_plus.png'
+import C_Sharp from '../assets/C-Sharp.png'
 import MySQL from '../assets/MySQL.png'
 import Github from '../assets/Github.png'
 
@@ -32,8 +32,8 @@ const Skills = () => {
 
                 {/* C++ */}
                 <div className='shadow-md shadow-[#6190a1] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={C_plus_plus} alt="C++ Icon" />
-                    <p className='my-4'>C++</p>
+                    <img className='w-20 mx-auto' src={C_Sharp} alt="C# Icon" />
+                    <p className='my-4'>C#</p>
                 </div>
 
                 {/* MySql */}
