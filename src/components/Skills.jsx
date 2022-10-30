@@ -45,7 +45,7 @@ const Skills = () => {
                 {/* Github */}
                 <div className='shadow-md shadow-[#6190a1] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Github} alt="Github Icon" />
-                    <p className='my-4'>Github</p>
+                    <p className='my-4'>GitHub</p>
                 </div>
             
             </div>

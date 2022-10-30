@@ -12,7 +12,7 @@ const Project = () => {
             Projects
           </p>
           <p className='py-4 text-xl'>
-            // Have a look on my past projects
+            // Have a look at my past projects
           </p>
         </div>
         {/* container */}

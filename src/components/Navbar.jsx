@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { FaBars, FaTimes, FaGithub, FaBlogger } from 'react-icons/fa'
+import { FaBars, FaTimes, FaGithub, FaLinkedin, FaBlogger } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { Link } from 'react-scroll'
 
@@ -80,6 +80,14 @@ const Navbar = () => {
             {/* Social icons */}
             <div className='hidden md:flex fixed flex-col top-[35%] left-0'>
                 <ul>
+                    {/* Linkedin */}
+                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
+                        <a className='flex justify-between items-center w-full text-gray-300'
+                            href="https://www.linkedin.com/in/xavier-leung-934aa1241/">
+                            Linkedin <FaLinkedin size={30} />
+                        </a>
+                    </li>
+
                     {/* mail */}
                     <Link activeClass="active" to="contact" smooth={true} duration={500} >
                         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-700'>
@@ -88,7 +96,6 @@ const Navbar = () => {
                             </a>
                         </li>
                     </Link>
-
 
                     {/* github */}
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#181c20]'>

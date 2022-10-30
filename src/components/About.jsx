@@ -19,12 +19,12 @@ const About = () => {
                     <p>Hi, I'm Xavier, nice to meet you. Please feel free to look around</p>
                 </div>
                 <div>
-                    <p className='text-xl'>I am passionate in dicovering new technolgies that can improve the lives of poeple since young.
-                       I am current wirting programs with Java, Python and any other languages that can help me to fullfill my task.
+                    <p className='text-xl'>I am passionate in discovering new technologies that can improve the lives of people since young.
+                       I am currently writing programs with Java, Python and any other languages that can help me to fulfil my task.
                     </p>
                     <p>
                        <br />
-                       Motto that inspires me: "Don't say what you make, make what you say "
+                       A Motto that inspires me: "Don't say what you make, make what you say "
                     </p>
                 </div>
             </div>
